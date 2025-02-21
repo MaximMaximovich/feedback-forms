@@ -1,0 +1,4 @@
+<?
+$MESS["GEOIP_INFO_HLBLOCK_ID"] = "";
+
+?>
