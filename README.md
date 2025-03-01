@@ -6,4 +6,6 @@
 
 /news3/index.php, urlrewrite.php - то же самое, что и в предыдущем пункте, но с использованием комплексного компонента catalog
 
+/news4/index.php, /local/templates/main/components/bitrix/news, /local/templates/main/components/bitrix/news.list/news4, urlrewrite.php - вывод, новостей при помощи комплексного компонента news. Для получения заголовка выполняется один запрос в базу, получающий самую старую и самую свежую новость
+
 /local/components/qperfect/simple.list/component.php - пример запроса с JOIN для получения PREVIEW_PICTURE
