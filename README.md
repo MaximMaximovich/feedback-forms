@@ -8,4 +8,6 @@
 
 /news4/index.php, /local/templates/main/components/bitrix/news, /local/templates/main/components/bitrix/news.list/news4, urlrewrite.php - вывод, новостей при помощи комплексного компонента news. Для получения заголовка выполняется один запрос в базу, получающий самую старую и самую свежую новость
 
+/news5/index.php, /local/templates/main/components/bitrix/news.list/filtered_news - связка main.ui.filter и news.list
+
 /local/components/qperfect/simple.list/component.php - пример запроса с JOIN для получения PREVIEW_PICTURE
